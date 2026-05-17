@@ -8,7 +8,7 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>OSSIFER</title>
   <style>
-    body {  background-color: ##0d0808; 
+    body {  background-color: #0d0808; 
          margin: 0;
          padding: 0;}
     img { max-width: 100%; display: block; margin: 4rem 0; }
@@ -37,7 +37,7 @@ layout: null
       padding-left: 2.5%;
       padding-bottom: 5%;
       padding-top: 5%;
-      width: 50%;
+      width: 50%; }
     }
   </style>
 </head>

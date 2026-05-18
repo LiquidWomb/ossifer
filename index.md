@@ -25,7 +25,7 @@ layout: null
       z-index: 100;}
     .container {
       padding-top: 16rem;
-      width: 1000px;
+      width: 900px;
       margin: 0 auto;}
     .container iframe {
       display: block;

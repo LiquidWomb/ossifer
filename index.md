@@ -45,7 +45,7 @@ layout: null
         width: 100%;
         height: 150px;   } 
     .text-block {
-      margin: 1rem 0;
+      font-size: 1rem;
       width: 100%;}
   </style>
 </head>

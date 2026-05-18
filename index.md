@@ -25,7 +25,7 @@ layout: null
     .container {
       padding-top: 10rem;
       width: 1000px;
-      margin: 0 auto 0 10%;}
+      margin: 0 auto;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%;
@@ -45,6 +45,7 @@ layout: null
   <img src="assets/photos/title.png">
   </div>
   <div class="container"> 
+    <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" width="100%" style="max-width:500px" height="700px"></iframe>
     <img src="assets/photos/cat.gif"> 
   </div>
   

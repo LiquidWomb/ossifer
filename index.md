@@ -13,12 +13,16 @@ layout: null
          padding: 0;}
     img { max-width: 100%; display: block; margin: 4rem auto; }
     .title {
-      position: fixed;
-      width: 100%;
-      display: flex;
-      justify-content: center;
-      background-color: #121212; 
-      z-index: 100;}
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  background-image: url('assets/photos/title.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-color: #121212;
+  z-index: 100;
+}
     .title img {
       height: 200px;
       width: auto;
@@ -43,7 +47,6 @@ layout: null
 </head>
 <body>
   <div class="title">
-  <img src="assets/photos/title.png">
   </div>
   <div class="container"> 
     <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" width="100%" style="max-width:500px" height="700px"></iframe>

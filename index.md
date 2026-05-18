@@ -15,6 +15,7 @@ layout: null
     .title {
       position: fixed;
       width: 100%;
+      justify-content: center;
       background-color: #121212; 
       z-index: 100;}
     .title img {

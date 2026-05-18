@@ -21,7 +21,8 @@ layout: null
       z-index: 100;}
     .title img {
       height: 200px;
-      width: auto;}
+      width: auto;
+      padding: 5%;}
     .container {
       padding-top: 20rem;
       width: 1000px;

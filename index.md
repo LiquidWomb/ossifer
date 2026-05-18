@@ -33,9 +33,10 @@ layout: null
       width: 100%;}
     .text-block {
       color: #815f5c;
-      font-size: 1rem;
+      font-size: 2rem;
       line-height: 1.6;
-      margin: 2rem 0;}
+      margin: 2rem 0;
+      width: 80%;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%;
@@ -43,12 +44,9 @@ layout: null
     .title { margin: 0 auto;
         width: 100%;
         height: 150px;   } 
-    .title img {
-      padding-left: 2.5%;
-      padding-bottom: 5%;
-      padding-top: 5%;
-      width: 50%; }
-    }
+    .text-block {
+      margin: 1rem 0;
+      width: 100%;}
   </style>
 </head>
 <body>
@@ -58,9 +56,15 @@ layout: null
     <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" height="800px"></iframe>
   <!--  <img src="assets/photos/cat.gif"> -->
   <div class="text-block">
-  <p>Defined by dark soundscapes and intricate rhythms, OSSIFER stands at the forefront of Austin’s burgeoning post-metal landscape, carving out a unique niche that blends aggressive sounds with introspective lyrics and shoegaze guitar stylings. Their compositions are a sonic journey through ethereal realms, offering listeners an escape into a world where heaviness meets haunting beauty.</p>
-<p>The members of OSSIFER first met in 2016 in the small university town of San Marcos, TX, home of renowned post-rock pioneers This Will Destroy You. Growing from the ashes of a defunct project called The Return South, a shape-shifting rock band that frequently changed names came to life. The band consisted of guitarist / composer Caleb, bassist Ximena and drummer Alex, the permanent lineup that would eventually become OSSIFER in 2022.</p>
-<p>The trio weathered numerous creative shifts and sporadic hiatuses, slowly uncovering their sonic signature against the backdrop of a turbulent political era and a global pandemic. Their compositions grew darker, richer and more complex as they settled comfortably into the new wave of emerging doomgaze, atmospheric sludge and post-metal artists including bands like Iress, Fvnerals and BIG|BRAVE.</p>
+  <p>Defined by dark soundscapes and intricate rhythms, OSSIFER stands at the forefront of Austin’s burgeoning post-metal landscape, 
+    carving out a unique niche that blends aggressive sounds with introspective lyrics and shoegaze guitar stylings. 
+    Their compositions are a sonic journey through ethereal realms, offering listeners an escape into a world where heaviness meets haunting beauty.</p>
+  <p>The members of OSSIFER first met in 2016 in the small university town of San Marcos, TX, home of renowned post-rock pioneers This Will Destroy You. 
+    Growing from the ashes of a defunct project called The Return South, a shape-shifting rock band that frequently changed names came to life. 
+    The band consisted of guitarist / composer Caleb, bassist Ximena and drummer Alex, the permanent lineup that would eventually become OSSIFER in 2022.</p>
+  <p>The trio weathered numerous creative shifts and sporadic hiatuses, slowly uncovering their sonic signature against the backdrop of a turbulent political era
+    and a global pandemic. Their compositions grew darker, richer and more complex as they settled comfortably into the new wave of emerging doomgaze, atmospheric sludge and 
+    post-metal artists including bands like Iress, Fvnerals and BIG|BRAVE.</p>
 </div>
   </div>
 </body>

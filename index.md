@@ -56,15 +56,11 @@ layout: null
     <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" height="800px"></iframe>
   <!--  <img src="assets/photos/cat.gif"> -->
   <div class="text-block">
-  <p>Defined by dark soundscapes and intricate rhythms, OSSIFER stands at the forefront of Austin’s burgeoning post-metal landscape, 
-    carving out a unique niche that blends aggressive sounds with introspective lyrics and shoegaze guitar stylings. 
-    Their compositions are a sonic journey through ethereal realms, offering listeners an escape into a world where heaviness meets haunting beauty.</p>
-  <p>The members of OSSIFER first met in 2016 in the small university town of San Marcos, TX, home of renowned post-rock pioneers This Will Destroy You. 
-    Growing from the ashes of a defunct project called The Return South, a shape-shifting rock band that frequently changed names came to life. 
-    The band consisted of guitarist / composer Caleb, bassist Ximena and drummer Alex, the permanent lineup that would eventually become OSSIFER in 2022.</p>
-  <p>The trio weathered numerous creative shifts and sporadic hiatuses, slowly uncovering their sonic signature against the backdrop of a turbulent political era
-    and a global pandemic. Their compositions grew darker, richer and more complex as they settled comfortably into the new wave of emerging doomgaze, atmospheric sludge and 
-    post-metal artists including bands like Iress, Fvnerals and BIG|BRAVE.</p>
+  <p>OSSIFER is a doomgaze trio from Austin, Texas crafting immersive soundscapes from crushing riffs and towering shoegaze textures. 
+    Drawing from post-metal, doom, and atmospheric sludge, their music balances weight and melody with introspective themes and cinematic intensity.</p>
+  <p>Caleb Hartsell - guitars</p>
+  <p>Ximena Boyrie - bass, vocals</p>
+  <p>Alex Ross - drums</p>  
 </div>
   </div>
 </body>

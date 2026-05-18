@@ -15,7 +15,6 @@ layout: null
     .title {
       position: fixed;
       width: 100%;
-      max-height: 600px;
       display: flex;
       justify-content: center;
       background-color: #121212; 
@@ -46,7 +45,7 @@ layout: null
   <img src="assets/photos/title.png">
   </div>
   <div class="container"> 
-    <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" width="100%" style="max-width:500px" height="700px"></iframe>
+    <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" width="100%" style="max-width:500px" display: block; margin: 0 auto; height="700px"></iframe>
     <img src="assets/photos/cat.gif"> 
   </div>
   

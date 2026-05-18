@@ -13,28 +13,23 @@ layout: null
          padding: 0;}
     img { max-width: 100%; display: block; margin: 4rem auto; }
     .title {
-  position: fixed;
-  width: 100%;
-  height: 200px;
-  background-image: url('assets/photos/title.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  background-color: #121212;
-  z-index: 100;
-}
-    .title img {
+      position: fixed;
+      width: 100%;
       height: 200px;
-      width: auto;
-      padding: 0;}
+      background-image: url('assets/photos/title.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: contain;
+      background-color: #121212;
+      z-index: 100;}
     .container {
-      padding-top: 20rem;
+      padding-top: 14rem;
       width: 1000px;
       margin: 0 auto;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%;
-        padding-top: 3rem}
+        padding-top: 6rem}
     .title { margin: 0 auto;
         width: 100%;} 
     .title img {

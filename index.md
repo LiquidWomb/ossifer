@@ -15,7 +15,7 @@ layout: null
     .title {
       position: fixed;
       width: 100%;
-      height: 200px;
+      height: 300px;
       background-image: url('assets/photos/title.png');
       background-repeat: no-repeat;
       background-position: center;
@@ -34,9 +34,10 @@ layout: null
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%;
-        padding-top: 6rem}
+        padding-top: 10rem}
     .title { margin: 0 auto;
-        width: 100%;} 
+        width: 100%;
+        height: 150px;   } 
     .title img {
       padding-left: 2.5%;
       padding-bottom: 5%;

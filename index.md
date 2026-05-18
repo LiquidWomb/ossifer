@@ -26,6 +26,12 @@ layout: null
       padding-top: 14rem;
       width: 1000px;
       margin: 0 auto;}
+    .container iframe {
+      display: block;
+      margin: 0 auto;
+      max-width: 500px;
+      width: 100%;
+    }
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%;

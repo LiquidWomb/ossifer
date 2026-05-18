@@ -29,8 +29,12 @@ layout: null
     .container iframe {
       display: block;
       margin: 0 auto;
-      width: 100%;
-    }
+      width: 100%;}
+    .text-block {
+      color: #ffffff;
+      font-size: 1rem;
+      line-height: 1.6;
+      margin: 2rem 0;}
     @media (max-width: 600px) {
     .container { margin: 0 auto;
         width: 95%;
@@ -51,8 +55,10 @@ layout: null
   </div>
   <div class="container"> 
     <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" height="800px"></iframe>
-    <img src="assets/photos/cat.gif"> 
+  <!--  <img src="assets/photos/cat.gif"> -->
   </div>
-  
+  <div class="text-block">
+  <p>Your text here</p>
+</div>
 </body>
 </html>

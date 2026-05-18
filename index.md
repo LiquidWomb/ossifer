@@ -8,7 +8,7 @@ layout: null
   <meta name="viewport" content="width=device-width, initial-scale=1">
  <title>OSSIFER</title>
   <style>
-    body {  background-color: #0d0808; 
+    body {  background-color: #080808; 
          margin: 0;
          padding: 0;}
     img { max-width: 100%; display: block; margin: 4rem auto; }
@@ -20,10 +20,10 @@ layout: null
       background-repeat: no-repeat;
       background-position: center;
       background-size: contain;
-      background-color: #121212;
+      background-color: #111010;
       z-index: 100;}
     .container {
-      padding-top: 14rem;
+      padding-top: 16rem;
       width: 1000px;
       margin: 0 auto;}
     .container iframe {

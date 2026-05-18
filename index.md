@@ -42,9 +42,9 @@ layout: null
   </style>
 </head>
 <body>
-  <!-- <div class="title">
+  <div class="title">
   <img src="/assets/photos/Spoken Forms Logo White Left Aligned.png">
-  </div> -->
+  </div>
   <div class="container"> 
     <img src="assets/photos/cat.gif"> 
   </div>

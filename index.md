@@ -20,8 +20,8 @@ layout: null
       background-color: #121212; 
       z-index: 100;}
     .title img {
-      width: 60%;
-      padding: 2rem;}
+      width: 70%;
+      padding: 1rem;}
     .container {
       padding-top: 10rem;
       width: 1000px;

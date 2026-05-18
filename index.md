@@ -14,14 +14,14 @@ layout: null
     img { max-width: 100%; display: block; margin: 4rem auto; }
     .title {
       position: fixed;
-      height: 500px;
       width: 100%;
       display: flex;
       justify-content: center;
       background-color: #121212; 
       z-index: 100;}
     .title img {
-      width: 80%;
+      height: 200px;
+      width: auto;
       padding: 1rem;}
     .container {
       padding-top: 20rem;

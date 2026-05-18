@@ -29,7 +29,6 @@ layout: null
     .container iframe {
       display: block;
       margin: 0 auto;
-      max-width: 500px;
       width: 100%;
     }
     @media (max-width: 600px) {

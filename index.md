@@ -34,7 +34,7 @@ layout: null
     .text-block {
       color: #815f5c;
       font-size: 1.5rem;
-      line-height: 1.6;
+      line-height: 1.4;
       margin: 2rem auto;
       width: 80%;}
     @media (max-width: 600px) {
@@ -46,6 +46,7 @@ layout: null
         height: 150px;   } 
     .text-block {
       font-size: 1rem;
+      line-height: 1.6;
       width: 100%;}
   </style>
 </head>
@@ -55,7 +56,7 @@ layout: null
   <div class="container"> 
     <iframe src="https://www.submithub.com/link/ossifer?new_window=true" scrolling="no" height="800px"></iframe>
   <!--  <img src="assets/photos/cat.gif"> -->
-  <div class="text-block">
+  <div class="text-block">  
   <p>OSSIFER is a doomgaze trio from Austin, Texas crafting immersive soundscapes from crushing riffs and towering shoegaze textures. 
     Drawing from post-metal, doom, and atmospheric sludge, their music balances weight and melody with introspective themes and cinematic intensity.</p>
   <p>Caleb Hartsell - guitars</p>

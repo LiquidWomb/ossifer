@@ -15,7 +15,7 @@ layout: null
     .title {
   position: fixed;
   width: 100%;
-  height: 60px;
+  height: 200px;
   background-image: url('assets/photos/title.png');
   background-repeat: no-repeat;
   background-position: center;
